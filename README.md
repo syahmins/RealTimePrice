@@ -1,4 +1,4 @@
-# Scrape Realtime price from Yahoo Finance
+# Scrape Realtime price from various data source
 Script date: 01 June 2021
 
 #### Level
